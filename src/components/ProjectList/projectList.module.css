@@ -1,0 +1,10 @@
+.container {
+  width: auto;
+  height: auto;
+}
+
+img {
+   /* Чтобы изображения растягивались на всю ширину блока */
+  height: auto;
+  margin: 10px;
+}

@@ -1,0 +1,17 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+.main {
+  background: #fff;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: auto;
+  flex-direction: column;
+  text-align: left;
+
+}
