@@ -1,6 +1,5 @@
 .toolbar {
   display: flex;
-
 }
 
 .button {
@@ -14,12 +13,11 @@
   border: 1px solid black;
 }
 
-.button:hover {
-  background-color: rgb(223, 216, 216);
-}
-
 .button:active {
   color: rgb(255, 255, 255);
-  background-color: #a1a1a1; 
   transform: translateY(1px); 
+}
+
+.selectedButton {
+  background-color: rgb(180, 191, 243);
 }
